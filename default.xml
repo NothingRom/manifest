@@ -7,7 +7,7 @@
            fetch="https://android.googlesource.com"
            review="android-review.googlesource.com" />
   <remote name="pure"
-           fetch="https://github.com/PureNexusProject/" /> 
+           fetch="https://github.com/NothingRom/" /> 
   <default revision="refs/tags/android-6.0.1_r22"
            remote="aosp"
            sync-c="true"
@@ -15,7 +15,7 @@
            sync-j="4" />
 
   <!-- Pure Repo's -->
-  <project path="build" name="android_build" groups="pdk" remote="pure" revision="mm" >
+  <project path="build" name="android_build" groups="pdk" remote="NothingRom" revision="m" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="manifest" name="manifest" remote="pure" revision="mm" />
