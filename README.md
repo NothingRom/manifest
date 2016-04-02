@@ -6,9 +6,9 @@ Initialize:
 
 Create the build directory :
 
-$ mkdir ~/dev $ mkdir ~/dev/NothingRom $ cd ~/dev/NothingRom Init core trees without any device/kernel/vendor :
+$ mkdir ~/dev $ mkdir ~/dev/NothingRom $ cd ~/dev/NothingRom 
 
-$ repo init -u https://github.com/NothingRom/android.git -b mm
+$ repo init -u https://github.com/NothingRom/manifest.git -b mm
 
 $ repo sync
 
