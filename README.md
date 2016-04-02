@@ -1,5 +1,8 @@
 NothingRom by Team Nothing Download the source
 
+I will be using PureNexus Repo as my starting base. all credits to Nate Beans and his team.
+This will just be my version of the rom.
+
 Please read the Nothing building instructions before proceeding.
 
 Initialize:
