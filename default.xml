@@ -15,7 +15,7 @@
            sync-j="8" />
 
   <!-- NothingRom Repo's -->
-  <project path="build" name="android_build" groups="pdk" remote="NothingRom" revision="m" >
+  <project path="build" name="android_build" groups="pdk" remote="NothingRom" revision="mm" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="manifest" name="manifest" remote="NothingRom" revision="mm" />
